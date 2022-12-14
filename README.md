@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer and Photographer
 ----------------------------------------
 
-I'm on my way to switch career to become a Software Engineer
+I'm on my way to switch career from a civil servant to become a Software Engineer
 
 * 🌍  I'm based in Jakarta
 * ✉️  You can contact me at [agnesia.lubuk@gmail.com](mailto:agnesia.lubuk@gmail.com)
